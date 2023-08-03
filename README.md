@@ -3,6 +3,8 @@
 
 
 ## File Descriptions 
+* [Crime_EDA](https://github.com/masonlonoff/NYC_Inmate_Profile/blob/main/Crime_EDA.ipynb): 
+
 
 Disclaimer
 This data set excludes Sealed Cases. Resulting summaries may differ slightly from other published statistics.
