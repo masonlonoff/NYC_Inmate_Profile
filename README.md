@@ -3,7 +3,8 @@
 
 
 ## File Descriptions 
-* [Crime_EDA](https://github.com/masonlonoff/NYC_Inmate_Profile/blob/main/Crime_EDA.ipynb): 
+* [Crime_EDA](https://github.com/masonlonoff/NYC_Inmate_Profile/blob/main/Crime_EDA.ipynb): This file contains data cleansing in pandas and SQL as well as column-level EDA.
+* [Dataset_Insights](https://github.com/masonlonoff/NYC_Inmate_Profile/blob/main/Dataset_Insights.ipynb): This file contains 29 queries related to the dataset. It also includes a Table of Contents for ease of use.
 
 
 Disclaimer
