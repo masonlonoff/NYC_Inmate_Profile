@@ -1,4 +1,4 @@
-# NYC_Crime_Profile
+# NYC_Inmate_Profile
 ![image](https://github.com/masonlonoff/NYC_Inmate_Profile/assets/117112918/80ac0d57-a5ad-4d6b-9021-bb24ce845cdb)
 
 
