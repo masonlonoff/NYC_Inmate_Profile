@@ -51,5 +51,5 @@ This dataset was taken from [NYC Open Data](https://data.cityofnewyork.us/Public
 
 
 
-Disclaimer
-This data set excludes Sealed Cases. Resulting summaries may differ slightly from other published statistics.
+### Disclaimer
+From the website: "This data set excludes Sealed Cases. Resulting summaries may differ slightly from other published statistics."
